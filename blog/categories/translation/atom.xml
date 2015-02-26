@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[xcodest小组]]></title>
-  <link href="http://info.xcodest.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Translation | xcodest小组]]></title>
+  <link href="http://info.xcodest.com/blog/categories/translation/atom.xml" rel="self"/>
   <link href="http://info.xcodest.com/"/>
   <updated>2015-02-26T23:05:14+08:00</updated>
   <id>http://info.xcodest.com/</id>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[成员介绍]]></title>
-    <link href="http://info.xcodest.com/blog/2015/02/26/cheng-yuan-jie-shao/"/>
-    <updated>2015-02-26T22:26:16+08:00</updated>
-    <id>http://info.xcodest.com/blog/2015/02/26/cheng-yuan-jie-shao</id>
-    <content type="html"><![CDATA[<p>有志者事竟成</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[翻译]]></title>
