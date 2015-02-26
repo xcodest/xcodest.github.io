@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Translation | xcodest小组]]></title>
   <link href="http://info.xcodest.com/blog/categories/translation/atom.xml" rel="self"/>
   <link href="http://info.xcodest.com/"/>
-  <updated>2015-02-26T23:05:14+08:00</updated>
+  <updated>2015-02-26T23:58:33+08:00</updated>
   <id>http://info.xcodest.com/</id>
   <author>
     <name><![CDATA[xcodest]]></name>
@@ -25,7 +25,7 @@
 <p>我们以微薄之力做一些简易翻译，内容如下：</p>
 
 <ul>
-<li>《Kali Linux网络扫描入门》翻译自<code>《Kali Linux Network Scanning Cookbook》</code></li>
+<li><a href="https://github.com/xcodest/Kali-Linux-Network-Scanning-Cookbook">《Kali Linux网络扫描入门》</a>翻译自<code>《Kali Linux Network Scanning Cookbook》</code></li>
 </ul>
 
 ]]></content>
