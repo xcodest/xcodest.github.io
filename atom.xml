@@ -4,7 +4,7 @@
   <title><![CDATA[Something Good Or Not]]></title>
   <link href="http://info.xcodest.com/atom.xml" rel="self"/>
   <link href="http://info.xcodest.com/"/>
-  <updated>2015-02-26T22:12:28+08:00</updated>
+  <updated>2015-02-26T22:27:25+08:00</updated>
   <id>http://info.xcodest.com/</id>
   <author>
     <name><![CDATA[xcodest]]></name>
@@ -14,28 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Open Unix/Linux ISOS]]></title>
-    <link href="http://info.xcodest.com/blog/2015/02/26/open-unix-slash-linux-isos/"/>
-    <updated>2015-02-26T22:04:38+08:00</updated>
-    <id>http://info.xcodest.com/blog/2015/02/26/open-unix-slash-linux-isos</id>
-    <content type="html"><![CDATA[<h3>download links:<a href="http://pan.baidu.com/s/1eQzn9Pw">http://pan.baidu.com/s/1eQzn9Pw</a></h3>
-
-<ul>
-<li>BackBox</li>
-<li>Bio-Linux</li>
-<li>Centos</li>
-<li>Debian</li>
-<li>HackShark Linux</li>
-<li>Kali Linux</li>
-<li>Linux Mint</li>
-<li>OpenSUSE</li>
-<li>Pentoo</li>
-<li>UberStudent</li>
-<li>Ubuntu</li>
-</ul>
-
-
-<p>you can commit blew if you have a question.</p>
+    <title type="html"><![CDATA[成员介绍]]></title>
+    <link href="http://info.xcodest.com/blog/2015/02/26/cheng-yuan-jie-shao/"/>
+    <updated>2015-02-26T22:26:16+08:00</updated>
+    <id>http://info.xcodest.com/blog/2015/02/26/cheng-yuan-jie-shao</id>
+    <content type="html"><![CDATA[<p>有志者事竟成</p>
 ]]></content>
   </entry>
   
