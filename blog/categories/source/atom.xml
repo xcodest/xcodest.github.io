@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Something Good Or Not]]></title>
-  <link href="http://info.xcodest.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Source | Something Good Or Not]]></title>
+  <link href="http://info.xcodest.com/blog/categories/source/atom.xml" rel="self"/>
   <link href="http://info.xcodest.com/"/>
   <updated>2015-02-26T22:12:28+08:00</updated>
   <id>http://info.xcodest.com/</id>
